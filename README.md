@@ -1,5 +1,5 @@
 ## 🖼️ Screenshot
 
-Tampilan aplikasi setelah menambahkan fitur **Done**:
+Tampilan aplikasi setelah menambahkan fitur Done:
 
-![Todo Done Feature](./src/assets/React TodoList.png)
+![Todo Done Feature](./src/assets/React%20TodoList.png)
