@@ -2,4 +2,4 @@
 
 Tampilan aplikasi setelah menambahkan fitur **Done**:
 
-![Todo Done Feature](./assets/todo-done.png)
+![Todo Done Feature](./assets/React TodoList.png)
